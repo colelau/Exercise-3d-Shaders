@@ -721,11 +721,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: fdd26f53-7a4d-471e-828b-cc452a6ad2d8
+  cloudProjectId: 66bc41da-4188-4266-8e76-360fe3f268b5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Breakout
-  organizationId: nmmishle
+  projectName: Exercise-3d-Shaders
+  organizationId: lauren-cole
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
